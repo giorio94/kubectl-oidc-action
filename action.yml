@@ -1,4 +1,4 @@
-name: 'kubectl-action'
+name: 'kubectl-oidc-action'
 description: 'Deploy to a Kubernetes cluster'
 author: 'Daniel Richter'
 branding:

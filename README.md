@@ -1,10 +1,7 @@
-# Kubectl Action
+# Kubectl-OIDC Action
 
-This action allows you to deploy to a kubernetes cluster.
-
-Alternatives:
-
-- [steebchen/kubectl](https://github.com/marketplace/actions/kubernetes-cli-kubectl)
+This action allows you to control a Kubernetes cluster and deploy resources.
+It enhances [danielr1996/kubectl-action](https://github.com/danielr1996/kubectl-action) introducing the support for OIDC authentication.
 
 ## Inputs
 
